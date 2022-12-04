@@ -8,8 +8,8 @@
 4. Jdoodle  # Online Compilers for all the Programming Languages
 5. Excalidraw  # Hand Drawing Tools
 6. Whimsical    # Drawing Flowchart , wireframes etc
-7. Canvas    # Designing Thumbnail , Website Layout Design and much more
-8. Table Plus # database visualization
+7. Canva    # Designing Thumbnail , Website Layout Design and much more
+8. TablePlus, DBeaver # database visualization
 9. Quick DBD # database design tool
 10. dbdiagram # database design tool
  
